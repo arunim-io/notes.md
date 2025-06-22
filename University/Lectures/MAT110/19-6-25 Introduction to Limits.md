@@ -21,6 +21,7 @@
 $$
 \lim\limits_{x->a^+}f(x)=\lim\limits_{x->a^-}f(x)=\lim\limits_{x->a}f(x)
 $$
+
 **Ex 1a.** Solve $\lim\limits_{x\to_{5}}x^2-4x+3$.
 **Ans:** $5^2 - 4.5 + 3 = 8$
 
@@ -29,26 +30,57 @@ $$
 
 ## Limits in Infinity
 
-$\lim\limits_{ x \to +\infty }f(x)=l$
-$\lim\limits_{ x \to -\infty }f(x)=l$
-Given that $R = (-\infty,+\infty)$
-
-### Infinite Limits at Infinity
-
-$\lim\limits_{ x \to +\infty }f(x)=\pm\infty$
-$\lim\limits_{ x \to -\infty }f(x)=\pm\infty$
+If the values of $f(x)$ eventually gets as close as we like to a number $L$ as $x$ increases without bound, then we can write:
+$$
+\begin{align}
+  \lim\limits_{ x \to +\infty } f(x) = L
+  \\
+  \text{OR}
+  \\
+  f(x) \to L &\text{ as } x \to +\infty
+\end{align}
+$$
+Similarly, if the values of $f(x)$ eventually gets as close as we like to a number $L$ as $x$ decreases without bound, then we can write:
+$$
+\begin{align}
+  &\lim\limits_{ x \to -\infty } f(x) = L 
+	\\
+  &f(x) \to L &\text{ as } x \to -\infty
+\end{align}
+$$
+So, to summarize:
+$$
+\begin{aligned}
+  &\lim\limits_{ x \to +\infty }f(x)=l
+  \\
+  &\lim\limits_{ x \to -\infty }f(x)=l
+  \\
+  &\text{Given that } R = (-\infty,+\infty)
+\end{aligned}
+$$
 
 ### Conditions
 
-1. $\lim\limits_{ x \to +\infty }f(x)=e$
-2. $\lim\limits_{ x \to -\infty }f(x)=e$
+1. $\lim\limits_{ x \to +\infty }(1+\frac{1}{x})^x=e$
+2. $\lim\limits_{ x \to -\infty }(1+\frac{1}{x})^x=e$
 3. $\lim\limits_{ x \to \pm \infty }{f(x)}^n={(\lim_{ x \to \pm \infty }f(x))}^n$
 4. $\lim\limits_{ x \to \pm \infty }kf(x)=k\lim\limits_{ x \to \pm \infty }f(x)$
 5. $\lim\limits_{ x \to \pm \infty }k=k$
 
 **NOTE:** Since $k$ is a constant, the specified limit doesn't have any effect on it.
 
-**Ex 2a.** Solve $\lim\limits_{ x \to +\infty }\left( 1+\frac{1}{2x} \right)^x$.
+### Infinite Limits at Infinity
+
+If the values of $f(x)$ increases without bound as $x \to +\infty$ or $x \to \infty$, then we can write:
+$$
+\begin{aligned}
+  &\lim\limits_{ x \to +\infty }f(x)=\pm\infty
+  &\lim\limits_{ x \to -\infty }f(x)=\pm\infty
+\end{aligned}
+$$
+
+**Ex 2.** Solve $\lim\limits_{ x \to +\infty }\left( 1+\frac{1}{2x} \right)^x$.
 **Ans:** $\lim\limits_{ x \to +\infty }\left[ \left( 1+\frac{1}{2x} \right)^{2x} \right]^\frac{1}{2}=\sqrt{e}$
-**Ex 2b.** Solve $\lim\limits_{ x \to -\infty } \frac{{4x^{2}-x}}{2x^3-5}$.
+
+**Ex 3.** Solve $\lim\limits_{ x \to -\infty } \frac{{4x^{2}-x}}{2x^3-5}$.
 **Ans:** $\lim\limits_{ x \to -\infty } \frac{\frac{4x^2-x}{x^3}}{\frac{2x^3-5}{x^3}}=\lim\limits_{ x \to -\infty } \frac{\frac{4}{x}-\frac{1}{x^2}}{2-\frac{5}{x^3}}=0$
