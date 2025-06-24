@@ -53,7 +53,7 @@ $$
 **Ex 6a.** Solve $\lim\limits_{ x \to \infty } \frac{e^{3x}}{x^{2}}$.
 **Ans:** $\lim\limits_{ x \to \infty } \frac{3e^{3x}}{2x}=\lim\limits_{ x \to \infty } \frac{9e^{3x}}{2}=\frac{9e^{\infty}}{2}=\infty$
 
-**Ex 4b.** Solve $\lim\limits_{ x \to \infty } \frac{x}{e^x}$. (To be solved as H/W)
+**Ex 6b.** Solve $\lim\limits_{ x \to \infty } \frac{x}{e^x}$. (To be solved as H/W)
 
 ##  $\infty$ Form
 
