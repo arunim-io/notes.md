@@ -1,5 +1,4 @@
 # Continuity
-
 A function, $f(x)$, is said to be continuous at $x=a$, if:
 1. $f$ is defined.
 2. Both the LHL & RHL exist.
@@ -60,7 +59,6 @@ As LHL$\neq$RHL, $f$ has no limits.
 As LHL$\neq$RHL$\neq f(0)$, $f$ is not continuous.
 
 # Squeeze/Pinching/Sandwich Theorem
-
 Let $f$, $g$ & $h$ be functions satisfying $g(x) \leq f(x) \leq h(x)$, for all values of $x$ in some open interval, containing the number $a$, with one possible exception that the inequalities need not hold at $a$.
 
 If $g$ & $h$ have the same limits, for example $\lim\limits_{ x \to a }g(x)=\lim\limits_{ x \to a }h(x)=L$, then $f$ also has a limit as $x$ approaches $a$, i.e. $\lim\limits_{ x \to a }f(x)=L$.
@@ -110,7 +108,6 @@ $$
 Test the continuity for $f$ at $x=0$. (To be done as H/W.)
 
 # Continuous Function on an Interval
-
 A function, $f$, is said to be continuous on a closed interval $[a,b]$ or $a \leq x \leq b$, if:
 1. $f$ is continuous on $(a,b)$.
 2. $f$ is continuous from the right at $a$. $$\lim\limits_{ x \to a^+ } f(x)=f(a)$$

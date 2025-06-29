@@ -7,7 +7,6 @@
 **NOTE:** Since $x \to \infty$, $\frac{1}{e^\infty} \to \frac{1}{\infty} \to 0$
 
 # L'Hopital's Rule (Intermediate form)
-
 If the function isn't in the form of $\frac{0}{0}$ or $\frac{\infty}{\infty}$, then the function must be differentiated until that the specified forms are reached.
 
 $$
@@ -21,7 +20,6 @@ $$
 $$
 
 ## Conditions
-
 1. $\lim\limits_{ x \to 0 } \frac{\sin{x}}{x}=1$
 2. $\lim\limits_{ x \to \infty } \frac{\sin{x}}{x}=0$
 3. $\lim\limits_{ x \to 0 } \frac{\sin{ax}}{ax}=1$
@@ -33,7 +31,6 @@ $$
 9. $\lim\limits_{ x \to \infty }(1+ax)^{\frac{1}{ax}}=e$
 
 ## $\frac{0}{0}$ Form
-
 **Ex 5a.** Solve $\lim\limits_{ x \to 0 } \frac{\sin{2x}}{x}$.
 **Ans:** $\lim\limits_{ x \to 0 } \frac{2\cos{2x}}{1}=\frac{2}{1}=2$
 
@@ -49,24 +46,20 @@ $$
 **Ex 5e.** Solve $\lim\limits_{ x \to 0 } \frac{\sin{2x}}{\sin{5x}}$. (To be solved as H/W)
 
 ##  $\frac{\infty}{\infty}$ Form
-
 **Ex 6a.** Solve $\lim\limits_{ x \to \infty } \frac{e^{3x}}{x^{2}}$.
 **Ans:** $\lim\limits_{ x \to \infty } \frac{3e^{3x}}{2x}=\lim\limits_{ x \to \infty } \frac{9e^{3x}}{2}=\frac{9e^{\infty}}{2}=\infty$
 
 **Ex 6b.** Solve $\lim\limits_{ x \to \infty } \frac{x}{e^x}$. (To be solved as H/W)
 
 ##  $\infty$ Form
-
 **Ex 7.** Solve $\lim\limits_{ x \to \infty }(x-\pi)\cot{x}$.
 **Ans:** $\lim\limits_{ x \to \infty } \frac{x-\pi}{\tan{x}}=\lim\limits_{ x \to \infty } \frac{1}{\sec^2{x}}=\lim\limits_{ x \to \infty }\cos^2{x}=1$
 
 ##  $(\infty\pm\infty)$ or $(\frac{1}{\infty}\pm/\frac{1}{\infty})$ Form
-
 **Ex 8.** Solve $\lim\limits_{ x \to 0 }(\frac{1}{x}-\frac{1}{\sin x})$.
 **Ans:** $\lim\limits_{ x \to 0 } \frac{\sin x-x}{x\sin x}=\lim\limits_{ x \to 0 } \frac{\cos x-1}{\sin x+(x\sin x+\cos x)}=1$
 
 ##  $0^0$, $\infty^0$, $1^{\infty}$ Form
-
 **Ex 9.** Solve $\lim\limits_{ x \to \infty }\left( 1+\frac{1}{x} \right)^x$.
 **Ans**: $$ 
 \begin{aligned}
@@ -104,11 +97,13 @@ f(x) = \begin{cases}
 $$
 Does $f(x)$ have a limit? If so, find the limits for $f(x)$ as $x\to0$ & $x\to \frac{1}{2}$.
 **Ans:**
+
 #### For $x\to0$,
 LHL: $\lim\limits_{ x \to 0^+ }(1+2x)=1$
 RHS: $\lim\limits_{ x \to 0^- }(1-2x)=1$
 Since LHL & RHL are same, limit exists.
 $\therefore \lim\limits_{ x \to 0 }f(x)=1$
+
 #### For $x\to \frac{1}{2}$,
 LHL: $\lim\limits_{ x \to {\frac{1}{2}}^+ }(1-2x)=0$
 RHS: $\lim\limits_{ x \to {\frac{1}{2}}^- }(-1+2x)=0$

@@ -1,5 +1,4 @@
 # In-text Citations
-
 An in-text citations is a reference made within the body of a writing. It is an acknowledgement that a writer includes in their writings whenever they quote or paraphrase a source. It alerts the reader to a source that the writer intends to inform in their work.
 
 The most common format used for writing in-text citation is the author-date format. Example: 'Apurbo (2020)'.
@@ -9,7 +8,6 @@ An in-text citation can be specified in 2 ways:
 2. Parenthetical in-text citation. Example: …(Apurbo, 2020).
 
 # Reference Section
-
 A reference section is a list of all the sources cited in a writing, providing full details for each used source.
 
 A reference section includes the following elements:

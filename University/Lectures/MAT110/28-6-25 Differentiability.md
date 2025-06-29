@@ -9,19 +9,16 @@ So, the derivative of $f(x)$ is:
 $$f'(x)=\lim\limits_{ h \to 0 } \frac{f(x+h)-f(h)}{h}$$
 
 # Derivative of $f(x)$ at $x=a$
-
 Let the function $f(x)$ be defined at $x=a$, so that $f'(a)=\lim\limits_{ h \to 0 } \frac{f(a+h)-f(h)}{h}$ can be called the **derivative** of $f(x)$ at $x=a$, provided that the limit exists.
 ![[diffrentiability-graph.drawio.svg]]
-## Left-hand Derivative (LHD)
 
+## Left-hand Derivative (LHD)
 $$Lf'(a)=\lim\limits_{ h \to 0^- } \frac{f(a+h)-f(h)}{h}$$
 
 ## Right-hand Derivative (RHD)
-
 $$Rf'(a)=\lim\limits_{ h \to 0^+ } \frac{f(a+h)-f(h)}{h}$$
 
 # Differentiable function
-
 A function is said to be differentiable at $x=a$ if the derivative exists, such that:
 1. $f(x)$ is continuous.
 2. LHD = RHD.
