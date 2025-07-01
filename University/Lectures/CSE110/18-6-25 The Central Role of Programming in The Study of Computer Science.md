@@ -125,37 +125,35 @@ A storage disc can only transfer data from a chunk of consecutive locations, so 
 With the need of persistent data storage and the relative slowness of storage devices, came the need of efficient data storage and access to/from secondary storage. This demand gave rise to many data modelling solutions and their program implementations, also known as database technologies. Most improvement in database technologies happened in the 70s and 80s when relational databases were invented, which still dominate today.
 
 # Computer Technology's Current State-of-art
- We have massive improvements in the speed of all parts of the computers till the beginning of this millennium. Particularly, the CPU speed reached close to the speed of light. However, it is difficult if not impossible to make electronic computers’ CPU any faster without melting the circuit.
+ We have massive improvements in the speed of all the parts of computers till the beginning of this millennium. Particularly, the CPU speed has reached close to the speed of light. However, it is difficult, if not, impossible to make electronic computers’ CPUs any faster without melting their circuits.
  
- Consequently, all computers started to have multiple CPU silicon chips then multiple CPUs in a silicon chip which is called a multicore CPU.
+ Consequently, all computers started to have multiple CPU silicon chips & then multiple CPUs in a single silicon chip, which we call a multicore CPU.
  
  The idea is now to write programs that can use multiple CPUs concurrently.
  
- Even the best memory technology remains 50 to 100 times slower than the CPU.
+ Even the current best memory technology remains 50 to 100 times slower than the CPU.
+ Even the current best storage technology remains 10 to 100 times slower than the memory.
  
- Even the best storage technology remains 10 to 100 times slower than the memory.
- 
- Unfortunately/fortunately, the computational problems we try to solve using the computers are also many times more complex than the problems early computer scientists tried to solve.
+ Unfortunately/fortunately, the computational problems we try to solve using computers are also many times more complex than the problems that early computer scientists tried to solve.
 
 # What is Programming?
 Programming is the activity of solving a real-world or scientific computational problem. It first translates the issue into a logical and mathematical flow of computations & then express the flow using the features of a high/low level programming language so that a computer can execute it.
 
-# Centrality of Programming in Computer Science
- If you consider the history of computers, you see that our need to solve more complex programming problems led to improvement of computers and their parts. This, in turn, reveals to us that more interesting problems can be solved using computer programs.
+# Centrality of Programming in CS
+ If you consider the history of computers, you'll see that our need to solve more complex programming problems led to improvement of computers and their parts. This, in turn, reveals to us that more interesting problems can be solved using computer programs.
 
-# Ubiquity of Programming in Computer Science
- Whatever computer science career you may choose, unless it is a pure executive position, or you become a theoretical mathematician, you have to program some form of computer/simulator/application or, in bare minimum, deeply understand behaviour of programs running in it.
+# Ubiquity of Programming in CS
+ Whatever CS career you may choose, unless it is a pure executive position, or you become a theoretical mathematician, you have to program some form of computer/simulator/application or, in bare minimum, deeply understand the behaviour of programs running in it.
 
-# Timelessness of Programming in Computer Science
- Since programming is all about solving problems using computers, we will always need to write new programs as we discover new problems to solve. Consequently, as long as information technology flourishes, the need for 
-programming should sustain.
+# Timelessness of Programming in CS
+ Since programming is all about solving problems using computers, we will always need to write new programs as we discover new problems to solve. Consequently, as long as information technology flourishes, the need for programming should sustain.
 
-However, you should remember that as information technology advances, old problems get solved and new problems emerge and new technological frontiers open. An issue that is already being solved need not be solved again.
+However, you should remember that as IT advances, old problems get solved & new problems emerge and new technological frontiers open. An issue that is already being solved need not be solved again.
 
-# Steps of Programming Knowledge Attainment
-1. Learn How to Use Programming Languages to solve computational problems.
-2. Learn How to Model Real World Scenarios as Computational Problems.
-3. Learn How to Solve Problem Efficiently.
+# Steps of Attaining Programming Knowledge
+1. Learn how to use programming languages to solve computational problems. 
+2. Learn how to model real world scenarios as computational problems. 
+3. Learn how to solve problems efficiently.
 
 # Aspects of Program Efficiency 
-There are many component parts of efficient programming. It takes multiple courses and years of experience to achieve mastery on efficient programming.
+There are many components/parts of efficient programming. It takes multiple courses and years of experience to master efficient programming.
