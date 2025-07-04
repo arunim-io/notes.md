@@ -22,7 +22,7 @@
 <p align="center">
 	<img src="Book Pr 2.png" />
 </p>
-3. Three vectors, $\vec{a}$, $\vec{b}$ and $\vec{c}$ each have a magnitude of 50m and lie in an $xy$ plane. Their directions relative to the positive direction of the $x$ axis are $30\degree$, $195\degree$ and $315\degree$, respectively. What are (a) the magnitude and (b) the angle of the vector $\vec{a}-\vec{b}+\vec{c}$ , and (c) the magnitude and (d) the angle of $\vec{a}-\vec{b}+\vec{c}$? What are the (e) magnitude and (f) angle of a fourth vector $\vec{d}$ such that $(\vec{a}+\vec{b})-(\vec{c}+\vec{d})=0$?
+3. Three vectors, $\vec{a}$, $\vec{b}$ and $\vec{c}$ each have a magnitude of 50m and lie in a $xy$ plane. Their directions relative to the positive direction of the $x$ axis are $30\degree$, $195\degree$ and $315\degree$, respectively. What are (a) the magnitude and (b) the angle of the vector $\vec{a}+\vec{b}+\vec{c}$, and (c) the magnitude and (d) the angle of $\vec{a}-\vec{b}+\vec{c}$? What are the (e) magnitude and (f) angle of a fourth vector $\vec{d}$ such that $(\vec{a}+\vec{b})-(\vec{c}+\vec{d})=0$?
 4. Here are two vectors: $$
 \begin{align}
   \vec{a}=4m\hat{i}-3m\hat{j} &\text{ and } b = 6m \hat{i}+8m \hat{j}
@@ -30,7 +30,7 @@
 $$ What are (a) the magnitude and (b) the angle (relative to $\hat{i}$) of $\vec{a}$? What are (c) the magnitude and (d) the angle of $\vec{b}$? What are (e) the magnitude and (f) the angle of $\vec{a}+\vec{b}$; (g) the magnitude and (h) the angle of $\vec{b}-\vec{a}$; and (i) the magnitude and (j) the angle of $\vec{a}-\vec{b}$? (k) What is the angle between the directions of $\vec{b}-\vec{a}$ and $\vec{a}-\vec{b}$?
 5. Two vectors $\vec{p}$ and $\vec{q}$ lie in the $xy$ plane. Their magnitudes are 3.50 and 6.30 units, respectively, and their directions are $220\degree$ and $75\degree$, respectively, as measured counterclockwise from the positive $x$ axis. What are the values of (a) $\vec{p}\times \vec{q}$ and (b) $\vec{p}\cdot \vec{q}$?
 6. Consider two vectors $\vec{p_{1}}=4 \hat{i}-3 \hat{j} + 5 \hat{k}$ and $\vec{p_{2}}=-6 \hat{i}+3 \hat{j} -2 \hat{k}$. What is $(\vec{p_{1}}+\vec{p_{2}})\cdot(\vec{p_{{1}}}\times 5 \vec{p_{2}})$?
-7. Three vectors are given by $\vec{a}=3 \hat{i}+ 3 \hat{j}- 2\hat{k}$, $\vec{b}=-1 \hat{i}-4 \hat{j}+2 \hat{k}$ and $\vec{c}=2 \hat{i}+2 \hat{j}+ \hat{k}$. Find (a) $\vec{a}\cdot(\vec{b}\times \vec{c})$, (b) $\vec{a}\times(\vec{b}+\vec{c})$ and (c) $\vec{a}\times(\vec{b}+\vec{c})$.
+7. Three vectors are given by $\vec{a}=3 \hat{i}+ 3 \hat{j}- 2\hat{k}$, $\vec{b}=-1 \hat{i}-4 \hat{j}+2 \hat{k}$ and $\vec{c}=2 \hat{i}+2 \hat{j}+ \hat{k}$. Find (a) $\vec{a}\cdot(\vec{b}\times \vec{c})$, (b) $\vec{a}\cdot(\vec{b}+\vec{c})$ and (c) $\vec{a}\times(\vec{b}+\vec{c})$.
 
 ### Answers
 ![[Book Answers Ch3.png]]
